@@ -1,0 +1,16 @@
+Portugol - Hora de acordar
+1 - Abrir os olhos
+2 - Levantar da cama
+3 - Caminhar até o banheiro
+4 - Bater na porta, houve resposta? Sim
+    1 - Esperar a pessoa sair
+5 - Não houve resposta:
+6 - Abrir a porta
+7 - Escovar os dentes
+8 - Ir até a cozinha
+9 - Tem danone na geladeira? Sim
+    1 - Abrir garrafa de danone
+    2 - Tomar o danone
+10 - Não tem danone
+    1 - Passar café
+    2 - Tomar café
